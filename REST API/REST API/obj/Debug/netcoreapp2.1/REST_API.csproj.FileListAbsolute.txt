@@ -1,0 +1,17 @@
+C:\Users\Bogzy\source\repos\REST API\REST API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Bogzy\source\repos\REST API\REST API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Bogzy\source\repos\REST API\REST API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Bogzy\source\repos\REST API\REST API\bin\Debug\netcoreapp2.1\REST_API.deps.json
+C:\Users\Bogzy\source\repos\REST API\REST API\bin\Debug\netcoreapp2.1\REST_API.runtimeconfig.json
+C:\Users\Bogzy\source\repos\REST API\REST API\bin\Debug\netcoreapp2.1\REST_API.runtimeconfig.dev.json
+C:\Users\Bogzy\source\repos\REST API\REST API\bin\Debug\netcoreapp2.1\REST_API.dll
+C:\Users\Bogzy\source\repos\REST API\REST API\bin\Debug\netcoreapp2.1\REST_API.pdb
+C:\Users\Bogzy\source\repos\REST API\REST API\obj\Debug\netcoreapp2.1\REST_API.csprojAssemblyReference.cache
+C:\Users\Bogzy\source\repos\REST API\REST API\obj\Debug\netcoreapp2.1\REST_API.RazorAssemblyInfo.cache
+C:\Users\Bogzy\source\repos\REST API\REST API\obj\Debug\netcoreapp2.1\REST_API.RazorAssemblyInfo.cs
+C:\Users\Bogzy\source\repos\REST API\REST API\obj\Debug\netcoreapp2.1\REST_API.AssemblyInfoInputs.cache
+C:\Users\Bogzy\source\repos\REST API\REST API\obj\Debug\netcoreapp2.1\REST_API.AssemblyInfo.cs
+C:\Users\Bogzy\source\repos\REST API\REST API\obj\Debug\netcoreapp2.1\REST_API.RazorTargetAssemblyInfo.cache
+C:\Users\Bogzy\source\repos\REST API\REST API\obj\Debug\netcoreapp2.1\REST_API.dll
+C:\Users\Bogzy\source\repos\REST API\REST API\obj\Debug\netcoreapp2.1\REST_API.pdb
+C:\Users\Bogzy\source\repos\REST API\REST API\bin\Debug\netcoreapp2.1\REST_API.xml
